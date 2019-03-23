@@ -1,0 +1,49 @@
+body
+  {
+    margin: 0;
+    padding: 0;
+    background: url(4.jpg) no-repeat;
+    background-size: cover;
+    padding:20px;
+    box-sizing: border-box;
+  }
+  .box{
+      width: 1500px;
+      background: rgba(255, 255, 255, 0.425);
+      padding: 40px;
+      text-align: center;
+      margin: auto;
+      margin-top: 5%;
+      color: black;
+      font-family: 'Century Gothic',sans-serif;
+      height: 100%;
+      
+    }
+
+  th:first-of-type {
+    border-left: none;
+    color: black;
+  }
+
+  th:last-of-type{
+    border-right: none;
+  }
+
+  tbody
+  {
+    color: black;
+  }
+
+  h1 
+  {
+   text-align: center;
+  }
+ 
+  #icon
+  {
+    width: 30px;
+    margin-top: 6px;
+  }
+
+
+  
